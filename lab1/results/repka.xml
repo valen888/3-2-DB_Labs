@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shop>
+  <product>
+    <description>APPLE iPhone 12 64GB (PRODUCT) RED</description>
+    <price>28 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/…/d6b5294e30f45be9d29233c7509553bf/2/3/23_4000.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 64GB Purple (MJQF3)</description>
+    <price>28 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/5/1/51281620442832.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 64GB Green</description>
+    <price>28 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/5/25_4000.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 64GB Blue</description>
+    <price>28 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/4/24_4000.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 64GB White</description>
+    <price>28 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/2/22_4000.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 64GB Black</description>
+    <price>28 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/1/21_4000.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 128GB (PRODUCT) RED</description>
+    <price>30 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/3/23_4000_1.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 128GB White</description>
+    <price>30 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/2/22_4000_1.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 128GB Green</description>
+    <price>30199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/5/25_4000_1.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 128GB Blue</description>
+    <price>30 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/4/24_4000_1.jpg</image>
+  </product>
+  <product>
+    <description>APPLE iPhone 12 128GB Black</description>
+    <price>30 199</price>
+    <image>https://m1.repka.com.ua/pub/media/catalog/product/cache/d6b5294e30f45be9d29233c7509553bf/2/1/21_4000_1.jpg</image>
+  </product>
+
+
+</shop>
